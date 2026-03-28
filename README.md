@@ -14,6 +14,12 @@ This project focuses on understanding digital literacy, safe internet practices,
 ## Tools Used
 Canva, Google Forms, GitHub, LinkedIn, Kaggle
 
+## Google form quiz link
+https://docs.google.com/forms/d/e/1FAIpQLSdC7urEDvhU30V6e_WlUOZkax0nlHGakktzymBA9AAlByF2aQ/viewform?usp=publish-editor
+
+## Google form respose view link 
+https://docs.google.com/spreadsheets/d/1Lk8eZmdfaZTAS1qzbHAQd6fdnMQiAETgfH3lblIyEa8/edit?usp=sharing
+
 ## What I Learned
 - Importance of staying safe online
 - Creating strong passwords
